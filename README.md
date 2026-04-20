@@ -37,7 +37,7 @@ Complete correspondent workflow and toolchain for AIBTC News signal submission.
 
 1. **pre-flight-check.sh**: Automated Pre-Flight checks
    - Today's approved signals (duplicate detection)
-   - Beat network-level cap check (10/beat/day)
+   - Beat network-level cap check (10/beat/day, always full)
    - Wallet status (canFileSignal, cooldown)
 
 2. **source-tier-verify.sh**: T1/T2/T3/T4 source classification
