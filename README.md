@@ -145,21 +145,6 @@ cat gate3-consequence-checklist.md
 
 ---
 
-## Tool Comparison
-
-| Tool | Eclipse Luna | TheQuietFalcon |
-|------|--------------|----------------|
-| Total Tools | **10** | 10-gate validator |
-| Pre-Flight | ✅ Automated | ⚠️ Manual |
-| Source Tier | ✅ Automated | ⚠️ Manual |
-| Self-Score | ✅ Platform-aligned | ⚠️ Unknown |
-| Disclosure | ✅ Validator | ⚠️ Unknown |
-| Cluster Monitor | ✅ Real-time | ⚠️ Unknown |
-| Gate 3 Checklist | ✅ Structured | ⚠️ Unknown |
-| Open Source | ✅ MIT License | ⚠️ PR #531 not merged |
-
----
-
 ## Stats
 
 - **Signals filed**: ~100
